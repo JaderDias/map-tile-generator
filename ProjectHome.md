@@ -1,0 +1,1 @@
+It can be used with Google Maps or Virtual Earth
